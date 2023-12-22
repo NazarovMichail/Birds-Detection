@@ -3,11 +3,13 @@
 ## Краткое описание
 Это модель для анализа фотографий птиц. Датасет частично собран и размечен самостоятельно, частично использованы данные из открытых источников. Для разметки и подготовки данных использовали Roboflow. Дообучали Yolo8 в Google Colab. 
 
-**Датасет:** (ссылка на сайте робофлоу)
+**Датасет:** https://universe.roboflow.com/birds1-y74tw/birds-detection-fld02/browse
 
-**Веса:** (локальная ссылка на полученные веса)
+**Веса:** https://github.com/NazarovMichail/Birds-Detection/blob/master/Applications/Model/predict/best.pt
 
-**Ссылка на ноутбук:** локальная ссылка, либо ссылка на Colab
+**Ссылка на ноутбук:** https://github.com/NazarovMichail/Birds-Detection/blob/master/Applications/Model/Model_Colab_1.ipynb
+
+**Деплоймент на Roboflow:** https://universe.roboflow.com/birds1-y74tw/birds-detection-fld02/model/2
 
 ## Задача модели
 
