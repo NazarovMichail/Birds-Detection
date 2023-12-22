@@ -5,9 +5,9 @@
 
 **Датасет:** https://universe.roboflow.com/birds1-y74tw/birds-detection-fld02/browse
 
-**Веса:** https://github.com/NazarovMichail/Birds-Detection/blob/master/Applications/Model/predict/best.pt
+**Веса:** https://github.com/NazarovMichail/Birds-Detection/blob/master/Model/predict/best.pt
 
-**Ссылка на ноутбук:** https://github.com/NazarovMichail/Birds-Detection/blob/master/Applications/Model/Model_Colab_1.ipynb
+**Ссылка на ноутбук:** https://github.com/NazarovMichail/Birds-Detection/blob/master/Model/Model_Colab_1.ipynb
 
 **Деплоймент на Roboflow:** https://universe.roboflow.com/birds1-y74tw/birds-detection-fld02/model/2
 
