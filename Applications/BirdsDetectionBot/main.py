@@ -9,8 +9,8 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 # Подключение модели по API Roboflow
 from roboflow import Roboflow
 rf = Roboflow(api_key="jyxqZLcJ27mR9wFxBpUJ")
-project = rf.workspace().project("birds-detection-fld02")
-model = project.version(2).model
+project = rf.workspace().project("birds-detection-riiaw")
+model = project.version(3).model
 
 
 bot = Bot(TOKEN)  # Создание экземпляра бота с токеном
