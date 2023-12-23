@@ -71,12 +71,8 @@ ___
 |6|cardinal|Красный кардинал| ![Cardinal 1](img/classes/cardinal/cardinal1.jpg)|![Cardinal 2](img/classes/cardinal/cardinal2.jpg)|![Cardinal 3](img/classes/cardinal/cardinal3.jpg)|
 
 При самостоятельной разметке данных не ограничивались только кадрами, в которых птица находится в наиболее выигрышном ракурсе и занимает большую часть кадра, а старались внести в датасет разные ракурсы, а также кадры, на которых одновременно присутствует несколько птиц:
-<<<<<<< HEAD
-![Two birds](img/classes/twobirds.jpg?raw=true&s=200)
-=======
 
 |![Two birds](img/classes/twobirds.jpg?raw=true&s=200)|
->>>>>>> dd66622eec14a424251db58f34bcdb6a60d87d40
 
 ## Итоговый состав датасета
 
