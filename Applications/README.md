@@ -1,17 +1,18 @@
 # `Телеграмм-бот`
+![](https://github.com/NazarovMichail/Birds-Detection/blob/master/Applications/img/botinfo.png)
 
 - ## `Описание приложения:`
 
 |Приложение в телеграмме|Описание|Название|Язык, фреймворк| Код |
 |:---:|:---:|:---:|:---:|:---:|
-|[Ссылка на бот](https://t.me/BirdsDetectionBot)|Детектирует птиц на фотографии|BirdsDetectionBot| Python, aiogram| [Телеграмм-бот](https://github.com/NazarovMichail/BirdyBot/tree/master/BirdyBot)|
+|[Ссылка на бот](https://t.me/BirdsDetectionBot)|Детектирует птиц на фотографии|BirdsDetectionBot| Python, aiogram| [Телеграмм-бот](https://github.com/NazarovMichail/Birds-Detection/tree/master/Applications/BirdsDetectionBot)|
 
 
 
 - ## `Задачи:`
 
 
-Телеграмм-бот разработан для начинающих орнитологов и иных лиц, любителей птиц.  
+Телеграмм-бот разработан для начинающих орнитологов и иных лиц - любителей птиц.  
 
 Бот принимает фотографию, находит птиц на фотографии и предоставляет информацию об обнаруженных птицах.
 
