@@ -36,7 +36,7 @@
 Разработан и размещен на сервере телеграмм-бот, детектирующий птиц на фотографиях.
 
 ## `Структура проекта`
-### :arrow_right:[Перейти в Applications](https://github.com/NazarovMichail/Birds-Detection/tree/master/Applications)
-### :arrow_right: [Перейти в Model](https://github.com/NazarovMichail/Birds-Detection/tree/master/Model)
+##### :arrow_right:[Перейти в Applications](https://github.com/NazarovMichail/Birds-Detection/tree/master/Applications)
+##### :arrow_right: [Перейти в Model](https://github.com/NazarovMichail/Birds-Detection/tree/master/Model)
 
 ![](img/Birds%20Detection.jpg)
