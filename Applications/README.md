@@ -1,5 +1,5 @@
 # `Телеграмм-бот`
-![](https://github.com/NazarovMichail/Birds-Detection/blob/master/Applications/img/botinfo.png)
+![](img/QR.jpg)
 
 - ## `Описание приложения:`
 
