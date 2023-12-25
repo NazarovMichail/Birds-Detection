@@ -65,7 +65,7 @@ ___
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1|sparrow|Воробей домовой, воробей полевой, чернобровая овсянка|![Sparrow 1](img/classes/sparrow/sparrow1.jpg)|![Sparrow 2](img/classes/sparrow/sparrow2.jpg) |![Sparrow 3](img/classes/sparrow/sparrow3.jpg) |
 |2|pigeon|голубь, вяхирь, горлинка| ![Pigeon 1](img/classes/pigeon/pigeon1.jpg)| ![Pigeon 2](img/classes/pigeon/pigeon2.jpg)|![Pigeon 3](img/classes/pigeon/pigeon3.jpg)|
-|3|pigeon|большая синица, лазоревка, черноголовая гаичка| ![Tit 1](img/classes/tit/tit1.jpg)| ![Tit 2](img/classes/tit/tit2.jpg)|![Tit 2](img/classes/tit/tit3.jpg)|
+|3|tit|большая синица, лазоревка, черноголовая гаичка| ![Tit 1](img/classes/tit/tit1.jpg)| ![Tit 2](img/classes/tit/tit2.jpg)|![Tit 2](img/classes/tit/tit3.jpg)|
 |4|thrush|Дрозд-отшельник, певчий дрозд, Свенсонов дрозд| ![Thrush 1](img/classes/thrush/thrush1.jpg)| ![Thrush 2](img/classes/thrush/thrush2.jpg)|![Thrush 3](img/classes/thrush/thrush3.jpg)|
 |5|woodpecker|Большой пестрый дятел, малый пестрый дятел, желтошапочный дятел| ![Woodpecker 1](img/classes/woodpecker/woodpecker1.jpg)| ![Woodpecker 2](img/classes/woodpecker/woodpecker2.jpg)| ![Woodpecker 3](img/classes/woodpecker/woodpecker3.jpg)| 
 |6|cardinal|Красный кардинал| ![Cardinal 1](img/classes/cardinal/cardinal1.jpg)|![Cardinal 2](img/classes/cardinal/cardinal2.jpg)|![Cardinal 3](img/classes/cardinal/cardinal3.jpg)|
