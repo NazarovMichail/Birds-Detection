@@ -3,8 +3,9 @@
 <img src='img/main.jpeg' width=600>
 
 ## `Структура проекта`
-#### :arrow_right:[Подробнее о телеграмм-боте](https://github.com/NazarovMichail/Birds-Detection/tree/master/Applications)
-#### :arrow_right: [Подробнее о модели](https://github.com/NazarovMichail/Birds-Detection/tree/master/Model)
+### :point_right:  [Перейти в раздел для Телеграмм-бота](https://github.com/NazarovMichail/Birds-Detection/tree/master/Applications)
+
+### :point_right:  [Перейти в раздел для Модели](https://github.com/NazarovMichail/Birds-Detection/tree/master/Model)
 
 ![](img/Birds%20Detection.jpg)
 
