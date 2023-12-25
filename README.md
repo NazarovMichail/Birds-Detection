@@ -2,6 +2,12 @@
 
 <img src='img/main.jpeg' width=600>
 
+## `Структура проекта`
+#### :arrow_right:[Подробнее о телеграмм-боте](https://github.com/NazarovMichail/Birds-Detection/tree/master/Applications)
+#### :arrow_right: [Подробнее о модели](https://github.com/NazarovMichail/Birds-Detection/tree/master/Model)
+
+![](img/Birds%20Detection.jpg)
+
  ## `Описание проекта`
 
 Проект разработан для детектирования по видео, фото изображениям птиц в интересах ученых, орнитологов, любителей птиц.
@@ -45,9 +51,3 @@
 - Средняя средняя точность для обнаружения всех объектов (mAP): 0.96
 
 Разработан и размещен на сервере телеграмм-бот, детектирующий птиц на фотографиях.
-
-## `Структура проекта`
-#### :arrow_right:[Подробнее о телеграмм-боте](https://github.com/NazarovMichail/Birds-Detection/tree/master/Applications)
-#### :arrow_right: [Подробнее о модели](https://github.com/NazarovMichail/Birds-Detection/tree/master/Model)
-
-![](img/Birds%20Detection.jpg)
